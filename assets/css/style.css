@@ -1,0 +1,113 @@
+
+/*body{
+	background-color: #FFFEEF;
+}
+header {
+	background-color: #00A3E6;
+}
+main {
+	margin-top: 1%;
+}
+
+section {
+	margin-bottom: 20%;
+}
+.progress {
+	height:100%;	
+} 
+.section-icon {
+font-size:70px;
+}
+.about-me-img {
+	text-align: center;
+}
+.about-me-img2{
+	height:270px;
+}
+.top {
+	position:fixed;
+	font-size:100px;
+	bottom:1px;
+	right:10px;
+	text-shadow: 5px 5px 5px blue;
+}
+footer{
+	background-color: #004777;
+	height: 80px;
+	padding:2%;
+}
+.footer {
+	color:white;
+}
+.skills {
+	margin-bottom: 5%;
+}*/
+/*.footer {
+	text-align: center;
+}*/
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+   background:url("../images/DSC100282039.jpg");
+   background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	 background-attachment: fixed;
+	 color:#fff;
+	/*display:table;*/
+   /*background-size: cover;*/
+}
+hr{
+	border-color: white;
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+.index-body{
+	padding-top: 100px;
+}
+#header {
+   background:gray;
+   padding:10px;
+}
+#body {
+   padding:10px;
+   /*padding-bottom:60px;   */
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;  
+   background:gray;
+}
+.top {
+	min-height: 100vh;
+}
+.headermessage{
+	padding-top: 2%;
+}
+.headerimg {
+	/*border-radius: 150px;*/
+	border-radius: 40px;
+	height: 300px;
+	border:1px black solid;
+	margin-top: 5%;
+	/*padding:10px;*/
+}
+.logo{
+	height: 150px;
+}
+.aboutme {
+	text-indent: 60px;
+}
+.shadow {
+	background-color:black;
+	/*opacity: 0.8;*/
+}
+.index-img{
+	height: 250px;
+}
