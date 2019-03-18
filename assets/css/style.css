@@ -150,6 +150,15 @@ hr{
 .index-img{
 	height: 250px;
 }
+.contacts {
+	margin-top: 10%;
+}
+.footerclass {
+	margin-top: 5%;
+}
+.projectsheader {
+	margin-top: 10%;
+}
 
 
 @media (max-width:575px) { 
